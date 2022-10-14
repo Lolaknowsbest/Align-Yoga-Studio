@@ -3,7 +3,7 @@
 
 A landing page website for the minimal yoga studio 🧘🏽🧘🏽🧘🏽
 
-This is an interactive and seo friendly.
+It is interactive and seo friendly.
 
 
 
